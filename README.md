@@ -70,6 +70,7 @@ Community list of startups working with AI for audio and music tech
 - [Wavtool](https://wavtool.com/) - web based DAW with AI assistants and support for local VST plug-ins
 - [Wavacity](https://wavacity.com/) - A port of the Audacity® audio editor to the web browser.
 - [DIKTATORIAL Suite](https://diktatorial.com/) - AI audio mastering with text prompts.
+- [MUSAI](https://musaisong.app/en/styles) - Turns a personal story into original song lyrics plus a Suno-ready style recipe (style prompt, BPM, weirdness, style influence) across 564 documented styles. Writes the words and the recipe; does not render audio.
 
 
 ## Source separation
